@@ -58,7 +58,7 @@
     .section-airpods-watch {
         display: flex;
         flex-direction: column;
-        height: 160vh;
+        height: 105rem;
     }
     .div-title {
         height: 15vh;
@@ -80,7 +80,7 @@
 
 @media (max-width: 640px) {
     .section-airpods-watch {
-        height: 125vh;
+        height: 80rem;
     }
     .div-title {
         font-size: 2.5rem;
@@ -109,12 +109,6 @@
 }
 
 @media (max-width: 375px) {
-    .section-airpods-watch {
-        height: 160vh;
-    }
-    .airpods {
-        height: 75vh;
-    }
     .img-airpods-pro {
         width: 80vw;
         height: auto;

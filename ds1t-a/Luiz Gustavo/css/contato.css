@@ -116,7 +116,7 @@ h2 {
 
 @media (max-width: 960px) {
     .section-contato {
-        height: 130vh;
+        height: 90rem;
     }
     .title-contato {
         width: 100vw;
@@ -142,7 +142,7 @@ h2 {
 
 @media (max-width: 640px) {
     .section-contato {
-        height: 140vh;
+        height: 90rem;
     }
     .title-contato {
         font-size: 3rem;

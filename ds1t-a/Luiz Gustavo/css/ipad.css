@@ -28,7 +28,7 @@
 @media (max-width: 960px) {
     .section-ipad {
         gap: 50px;
-        height: 110vh;
+        height: 75rem;
     }
     .main-ipad {
         display: flex;
@@ -43,23 +43,14 @@
 
 @media (max-width: 640px) {
     .section-ipad {
-        height: 75vh;
+        height: 48rem;
         gap: 15px;
     }
     .main-ipad {
-        height: 50vh;
+        height: 30rem;
     }
     .img-ipad {
         width: 80vw;
         height: auto;
-    }
-}
-
-@media (max-width: 375px) {
-    .section-ipad {
-        height: 95vh;
-    }
-    .main-ipad {
-        height: 60vh;
     }
 }

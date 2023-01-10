@@ -58,7 +58,7 @@
 
 @media (max-width: 960px) {
     .section-inicio {
-        height: 95vh;
+        height: 65rem;
     }
     .main-home {
         display: flex;
@@ -86,7 +86,7 @@
 
 @media (max-width: 640px) {
     .section-inicio {
-        height: 50vh;
+        height: 35rem;
     }
     .title-apple {
         font-size: 2rem;
@@ -99,11 +99,5 @@
     }
     .logo-footer {
         display: none;
-    }
-}
-
-@media (max-width: 375px) {
-    .section-inicio {
-        height: 75vh;
     }
 }

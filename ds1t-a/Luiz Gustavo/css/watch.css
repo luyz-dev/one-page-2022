@@ -63,6 +63,6 @@
 
 @media (max-width: 375px) {
     .main-watch {
-        height: 100vh;
+        height: 30rem;
     }
 }
